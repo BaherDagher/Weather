@@ -1,0 +1,53 @@
+#main-section{
+    background-image: url(../images/banner.png);
+background-position: cover;
+background-repeat: no-repeat;
+}
+
+.btn {
+    transform: translateY(-50%);
+    top: 50%  ;
+    right: 0;
+}
+
+
+.card {
+    background-color: #2D303D;
+
+
+.inner {
+    background-color: #323544;
+
+}
+
+    .icons{
+        img {
+            width :30px;
+        }
+    }
+}
+
+.condition{
+    color: #009AD8;
+}
+
+.tomorrow{
+    margin-bottom: 90px;
+}
+
+body {
+    background-color: #1E202B;
+
+}
+
+.logo img {
+    width: 75px;
+}
+
+.logo .text {
+    color: white;
+   padding-left: 20px;
+   vertical-align: middle;
+   font-size: 24px;
+
+}
